@@ -2,6 +2,10 @@
 
 ![Capa do Projeto](Tech.png)
 
+---
+
+### 🧭 Tema: Entrevistador Técnico de Vagas em Tecnologia
+
 Este projeto simula um **entrevistador técnico especializado em vagas de tecnologia**, conduzindo uma entrevista estruturada com base em quatro temas principais: **Título da vaga, Senioridade, Stack Tecnológica e Soft Skills**.  
 Após coletar todas as respostas, o sistema gera um **resumo analítico da vaga**.
 
