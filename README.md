@@ -1,6 +1,6 @@
-# Tech-Job-Interview-Simulator
-
 # 💼 Tech Job Interview Simulator
+
+![Capa do Projeto](Tech.png)
 
 Este projeto simula um **entrevistador técnico especializado em vagas de tecnologia**, conduzindo uma entrevista estruturada com base em quatro temas principais: **Título da vaga, Senioridade, Stack Tecnológica e Soft Skills**.  
 Após coletar todas as respostas, o sistema gera um **resumo analítico da vaga**.
